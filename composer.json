@@ -1,5 +1,5 @@
 {
-    "name": "elkan/behatformatter",
+    "name": "elkan-fork/behatformatter",
     "description": "This will create a formatter for Behat 3! Fast, Easy and Pretty!",
     "license": "MIT",
     "authors": [
